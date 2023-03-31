@@ -1,3 +1,6 @@
+/*Programa que permita determinar a partir de la cantidad de personas el valor de dolares
+promedio de cada uno, debe funcionar repetidamente
+*/
 #include <iostream>
 using namespace std;
 int main(){

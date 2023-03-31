@@ -12,6 +12,5 @@ int main()
         F=A+B;
         C+=1;
     }
-
     return 0;
 }

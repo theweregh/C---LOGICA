@@ -1,4 +1,8 @@
-//7 operacion de 2 numeros
+/*7 operacion de 2 numeros 230201
+hacer el df y la td para un programa que permita recibir 2 numero por teclado a y b
+y devolver el resultado que daria sumarlos,restarlos,multiplicarlos,dividirlos y calcular el modulo del primero en el
+segundo
+*/
 #include <iostream>
 using namespace std;
 int main(){

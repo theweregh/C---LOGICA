@@ -10,8 +10,6 @@ int main()
         cout<<"F es: "<<F<<endl;
         A=B;B=F;
         F=A+B;
-        
     }
-
     return 0;
 }

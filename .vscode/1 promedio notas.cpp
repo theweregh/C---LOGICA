@@ -1,3 +1,6 @@
+/*1
+promedio de notas
+*/
 #include<iostream>
 using namespace std;
 int main(){

@@ -1,4 +1,4 @@
-
+#include <iostream>
 using namespace std;
 int main(){
     /*cn: es cuantos numeros quiere evaluar

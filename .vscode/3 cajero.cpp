@@ -1,4 +1,12 @@
-//3 cajero
+/*3 cajero 230126
+construir un programa que permita determinar la menor cantidad posible de billetes 
+entre $50,$20,$10 entregando la mejor denomincaion cuando sea posible pasando a la
+siguiente si hace falta
+a.el usuario asigna siempre un valor a retirar permitido (no valide)
+b.no es necesario entregar billetes de todas las denominaciones
+c.el usuario su ingresa la targeta adecuada y su contraseña es la correcta
+d.siempre hay billetes en el cajero
+*/
 #include<iostream>
 using namespace std;
 int main(){

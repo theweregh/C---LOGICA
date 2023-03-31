@@ -1,4 +1,8 @@
-//6 Divisas 1/02/23
+/*6 Divisas 1/02/23
+hacer el df y la tabla de analisis para un programa que me permita determinar cuantos
+dineros tengo en pesos a partir de la cantidad de dolares euros reales soles que tengo
+ahorrados de mis diferentes viajes
+*/
 #include <iostream>
 using namespace std;
 int main(){
