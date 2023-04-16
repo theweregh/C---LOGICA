@@ -1,21 +1,28 @@
-
-
-A continuación se muestra un ejemplo de código para esta aplicación:
-
-def mayor_y_menor(nums): 
-    mayor = nums[0] 
-    menor = nums[0] 
-
-    for num in nums: 
-        if num > mayor: 
-            mayor = num 
-        if num < menor: 
-            menor = num
-
-    return (mayor, menor)
-
-
-numeros = [2, 4, 6, 8, 10] 
-mayor, menor = mayor_y_menor(numeros) 
-print("El número mayor es", mayor) 
-print("El número menor es", menor)
+#include <iostream>
+using namespace std;
+int main(){
+    int q,c,n,i,ci,cp;
+    cp = 0;
+    ci = 0;
+    cout<<"ingrese la cantidad de numeros que desea ingresar ";cin>>q;
+    int p [q];
+    int I [q];
+    for(c=0;c<q;c++){
+        cout<<"ingrese un numero ";cin>>n;
+        if(n%2==0){
+            p[cp]=n;
+            cp+=1;
+        }
+        else{
+            I[ci]=n;
+            ci+=1;
+        }
+    }
+    for(i=0;i<cp;i++){
+        cout<<p[i];
+    }
+    for(i=0;i<ci;i++){
+    cout<<I[i];
+    }
+    return 0;
+}

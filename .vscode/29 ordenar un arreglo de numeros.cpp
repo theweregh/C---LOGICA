@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int c,n,i,j,k,t,spn;
+    int c,i,j,k,t;
     cout<<"ingrese la cantidad de poiciones ";cin>>c;
     int vct[c];
     for (i=0;i<c;i++){
