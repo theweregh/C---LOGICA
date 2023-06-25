@@ -4,8 +4,7 @@ CD=cantidad digitadas
 */
 #include <iostream>
 using namespace std;
-int main()
-{
+int main(){
     //1
     int TB,CU,CE,vlr,B50,B20,B10;
     TB=0;CU=0;CE=0;
